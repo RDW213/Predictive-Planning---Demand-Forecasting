@@ -1,1 +1,1 @@
-# Predictive-Planning---Demadn-Forecasting
+# Predictive-Planning---Demand-Forecasting
