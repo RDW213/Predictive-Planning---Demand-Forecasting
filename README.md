@@ -1,4 +1,4 @@
-# Predictive-Planning---Demand-Forecasting
+# Supply Chain --- Predictive-Planning---Demand-Forecasting
 
 The project aims to build the fundamental framework for an ensemble predictive analysis in demand forecasting (or any other numeric target values).
 
